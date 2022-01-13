@@ -141,34 +141,34 @@ https://github.com/rome/tools/pulls?q=author%3Axunilrj
 [Generational Index](https://github.com/xunilrj/sandbox/tree/master/sources/rust/generational_index)
 
 Chat  
-[low level HTTP using MIO](https://github.com/xunilrj/sandbox/tree/master/tree/master/sources/rust/chat)  
-[scalability using Cassandra/ScyllaDB](https://github.com/xunilrj/sandbox/tree/master/tree/master/sources/rust/chat-ws)  
+[low level HTTP using MIO](https://github.com/xunilrj/sandbox/tree/master/sources/rust/chat)  
+[scalability using Cassandra/ScyllaDB](https://github.com/xunilrj/sandbox/tree/master/sources/rust/chat-ws)  
 
 SSTable  
-[Simple Trait based SSTable](https://github.com/xunilrj/sandbox/tree/master/tree/master/sources/rust/sstable)  
+[Simple Trait based SSTable](https://github.com/xunilrj/sandbox/tree/master/sources/rust/sstable)  
 
 RCU - Read-Copy-Update  
-[Concurrent FIFO](https://github.com/xunilrj/sandbox/tree/master/tree/master/sources/rust/rcu-test)  
+[Concurrent FIFO](https://github.com/xunilrj/sandbox/tree/master/sources/rust/rcu-test)  
 
 Multithread Columnar DB  
-[DB](https://github.com/xunilrj/sandbox/tree/master/tree/master/sources/rust/columnar-db)  
+[DB](https://github.com/xunilrj/sandbox/tree/master/sources/rust/columnar-db)  
 
 RELM - Rust ELM
-[Relm](https://github.com/xunilrj/sandbox/tree/master/tree/master/sources/rust/relm)  
+[Relm](https://github.com/xunilrj/sandbox/tree/master/sources/rust/relm)  
 
 Merkle Tree
-[Merkle Tree](https://github.com/xunilrj/sandbox/tree/master/tree/master/sources/rust/merkle-tree)  
+[Merkle Tree](https://github.com/xunilrj/sandbox/tree/master/sources/rust/merkle-tree)  
 
 #### Go
 
 IETF Servers:
 
-[daytime](https://github.com/xunilrj/sandbox/tree/master/tree/master/sources/golang/ietf-servers/daytime)   
-[echo](https://github.com/xunilrj/sandbox/tree/master/tree/master/sources/golang/ietf-servers/echo) 
+[daytime](https://github.com/xunilrj/sandbox/tree/master/sources/golang/ietf-servers/daytime)   
+[echo](https://github.com/xunilrj/sandbox/tree/master/sources/golang/ietf-servers/echo) 
 
 Gossip:
 
-[UDP Gossip](https://github.com/xunilrj/sandbox/tree/master/tree/master/sources/golang/gossip)   
+[UDP Gossip](https://github.com/xunilrj/sandbox/tree/master/sources/golang/gossip)   
 ![Gossip](./gossip.gif "Gossip")  
 
 
