@@ -1,6 +1,13 @@
 # Index
 [![Daniel Leite's github stats](https://github-readme-stats.vercel.app/api?username=xunilrj)](https://github.com/xunilrj/sandbox)
 
+# Opensource Contributions
+
+https://github.com/xunilrj?org=rome&year_list=1  
+https://github.com/rome/tools/pulls?q=author%3Axunilrj  
+
+# Articles I wrote
+
 ## Math
 ### Theory
 [Geometric Interpretation of Covariance](https://github.com/xunilrj/sandbox/texts/math/Statistics/GeometricInterpretationOfCovarianceMatrix.pdf)   
@@ -180,7 +187,8 @@ Gossip:
 [university-of-texas-linear-algebra](https://github.com/xunilrj/sandbox/courses/university-of-texas-linear-algebra)  
 [UTAustinX UT.PHP.16.01x](https://github.com/xunilrj/sandbox/courses/UTAustinX%20UT.PHP.16.01x)  
 
-# Stackoverflow Answers
+# My Stackoverflow Answers
+
 ## C# and .NET
 ### UnitOfWork, Repository Database Connection Issue  
 about IoC container Unity  
