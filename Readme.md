@@ -3,8 +3,8 @@
 
 # Opensource Contributions
 
-https://github.com/xunilrj?org=rome&year_list=1  
-https://github.com/rome/tools/pulls?q=author%3Axunilrj  
+https://github.com/rome/tools/pulls?q=author%3Axunilrj 
+https://github.com/FuelLabs/sway/pulls?q=is%3Apr+author%3Axunilrj+
 
 # Articles I wrote
 
